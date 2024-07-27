@@ -56,7 +56,7 @@ if ($cfg && $cfg->isClientRegistrationEnabled()) {
 <?php } ?>
     <div>
     <b><?php echo __("Information"); ?></b> —
-    <a href="<?php echo ROOT_PATH; ?>scp/"><?php echo __('All successful and unsuccessful logins and login attempts are also recorded. (Also the IP address.)'); ?></a>
+    <?php echo __('All successful and unsuccessful logins and login attempts are also recorded. (Also the IP address.)'); ?>
     </div>
     </div>
 </div>
