@@ -287,7 +287,7 @@ h2, .subject {
   background-color: #0299d2;
 }
 body {
-  background: url('../images/page_bg.png') top left repeat-x #c8c8c8;
+  background: url('../images/page_bg.png') top left repeat #c8c8c8;
 }
 #container {
   background: #fff;
