@@ -56,7 +56,7 @@ if ($cfg && $cfg->isClientRegistrationEnabled()) {
 <?php } ?>
     <div>
     <b><?php echo __("Information"); ?></b> —
-    <?php echo __('All successful and unsuccessful logins and login attempts are also recorded. (Also the IP address.)'); ?>
+    <?php echo __('Minden sikeres és sikertelen bejelentkezés, illetve bejelentkezési kísérlet is rögzítésre kerül. (Beleértve az IP címet is)'); ?>
     </div>
     </div>
 </div>
